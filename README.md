@@ -2,11 +2,8 @@ Group Name: Krelnein Software Inc.
 
 Members: 
           Kristine Chan
-          
           Kent Angelo Cabanag
-          
           Jelen Kriz Angel P. Mampusti
-          
           Sean Harvey Ofianga 
 
 Project Name: CommUnite
