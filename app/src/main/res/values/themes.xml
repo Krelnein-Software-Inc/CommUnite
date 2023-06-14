@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.LogIn" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary Brand Color -->
+        <item name="colorPrimary">@color/blue100</item>
+        <item name="colorPrimaryVariant">@color/blue90</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <!-- Secondary Brand Color -->
+        <item name="colorSecondary">@color/blue70</item>
+        <item name="colorSecondaryVariant">@color/blue60</item>
+        <item name="colorOnSecondary">@color/blue40</item>
+
+        <!-- Status Brand Color -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+    </style>
+
+</resources>
