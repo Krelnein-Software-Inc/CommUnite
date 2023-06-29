@@ -16,4 +16,4 @@ Project Description: The project, "CommUnite," is a mobile application that conn
 
 Trello Workspace: https://trello.com/invite/b/ThUmd4qT/ATTI24603cd256739c2a0291d7408e422addCB9F95EA/communite
 
-Github/Repository Link: https://github.com/Krelnein-Software-Inc/CommUnite
+Github/Repository Link: https://github.com/Krelnein-Software-Inc/SoftwareDevelopment
